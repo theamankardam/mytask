@@ -26,7 +26,7 @@ This project is a scalable web application with authentication and dashboard fun
 ### Frontend
 1. `cd frontend`
 2. `npm install`
-3. `npm start` 
+3. `npm run dev` 
 
 
 ## Postman Collection
